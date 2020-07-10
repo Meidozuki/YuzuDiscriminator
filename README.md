@@ -1,2 +1,2 @@
-# YuzuNet
-测试
+# YuzuDiscriminator
+Hello World
